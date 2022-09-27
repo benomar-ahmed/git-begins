@@ -1,0 +1,9 @@
+La commande pour cloner un repository :
+
+git clone [URL]
+
+Les 3 commandes dans l'ordre pour psuh :
+
+git add [Nom_du_fichier]
+git commit –m “Description du commit”
+git push origin master
