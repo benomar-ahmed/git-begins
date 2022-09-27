@@ -11,3 +11,11 @@ git push origin master
 La commande qui permet de pull :
 
 git pull
+
+La commande qui permet de créer une branche :
+
+git branch [Nom_du_fichier]
+
+La commande qui permet de switcher d'une branche à l'autre :
+
+git checkout [Nom_de_la_branche]
