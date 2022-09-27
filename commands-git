@@ -7,3 +7,7 @@ Les 3 commandes dans l'ordre pour psuh :
 git add [Nom_du_fichier]
 git commit –m “Description du commit”
 git push origin master
+
+La commande qui permet de pull :
+
+git pull
