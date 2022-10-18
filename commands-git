@@ -1,1 +1,30 @@
-Pour aller plus loin
+
+
+Commande pour clone:
+
+git clone [URL]
+
+Commande pour push par étape :
+
+git add [NOM_DU_FICHIER]
+git commit -m "Description du Commit"
+git push origin main
+				
+
+Commande pour pull :
+
+git pull
+
+
+Commande pour créer une branche
+
+
+git branch [NOM_DE_La_BRANCHE]
+
+
+Commande pour basculer d’une branche à l’autre:
+
+
+git checkout [NOM_DE_LA_BRANCHE]
+
+
